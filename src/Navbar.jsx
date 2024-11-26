@@ -24,7 +24,7 @@ function Navbar(){
         <div>
           {/* Navbar Section Start */}
           <nav className="navbar navbar-expand-sm fixed-top">
-            <a href="/" className="navbar-brand"><span>F</span>ilozoos</a>
+            <a href="/" className="navbar-brand"><span>Petz</span> Hangout</a>
             <div>
               <ul className="navbar-nav">
                 <li className="nav-item"><Link to="/" className="nav-link">Home</Link></li>
