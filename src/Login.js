@@ -8,7 +8,7 @@ function Login(){
           {/* Navbar Section Start */}
           <nav className="navbar navbar-expand-sm scroll">
             <a href="/" className="navbar-brand">
-              <span>F</span>ilozoos
+              <span>Petz</span> Hangout
             </a>
             <div>
               <ul className="navbar-nav">
